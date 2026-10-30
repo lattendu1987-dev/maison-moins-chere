@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lattendu1987-dev.github.io/maison-moins-chere/sitemap.xml
